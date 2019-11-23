@@ -19,7 +19,7 @@ For instance, you may want to add Google Tag manager or Google Analytics to your
 Gatsby site. Simply download the correct plugin and add some configuration to your
 `gatsby-config.js` file and you will be up and running.
 
-Speaking of the `gatsby-config.js` file, open up that file and examine it's
+Speaking of the `gatsby-config.js` file, open up that file and examine its
 contents.
 
 ```javascript
