@@ -95,7 +95,7 @@ Feel free to add any SASS you want in this SASS file. It will automatically
 compile the SASS as long as the Gatsby development server is running.
 
 **CHALLENGE:** Using either SASS or CSS modify some of the site styles. You may
-decide to move some (or all of the CSS) to your SASS file. Don't spend too much
+decide to move some (or all) of the CSS to your SASS file. Don't spend too much
 time on this though as we still have other types of styles to explore.
 
 **Note:** You may notice there are some inline styles in some components that
