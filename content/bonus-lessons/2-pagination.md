@@ -11,6 +11,6 @@ problem, but those in the Drupal world will be very familiar with Pagers.
 
 The `gatsby-awesome-pagination` plugin can be used to configure pagers on your
 lists of content. You can follow the examples in the corresponding Code Karate
-YouTube vidoe to see it in action.
+YouTube video to see it in action.
 
 <YoutubeEmbed link="https://www.youtube.com/embed/KJyxJYKLm6g" />
